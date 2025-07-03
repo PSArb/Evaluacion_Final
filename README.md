@@ -1,13 +1,13 @@
 # Evaluación II - Consultas SQL sobre la base de datos Sakila
 
-¡Hola! ���  
+¡Hola! 👋  
 Este repositorio contiene mi resolución de la Evaluación II de la asignatura de Bases de Datos, usando la base de datos de ejemplo **Sakila** y consultas SQL ejecutadas en **MySQL Workbench**.
 
-## ��� Objetivo
+## 📋 Objetivo
 
 El objetivo de este trabajo es demostrar mi comprensión de las consultas SQL, las relaciones entre tablas y el manejo de bases de datos relacionales. A través de diferentes ejercicios y casos prácticos, resuelvo preguntas típicas de examen sobre Sakila, justificando cada decisión con comentarios en primera persona y siguiendo las mejores prácticas vistas en clase.
 
-## ���️ Estructura del repositorio
+## 🗄️ Estructura del repositorio
 
 - `sakila-data.sql`: Script para cargar los datos de la base de datos Sakila.
 - `detalle-bbdd-sakila.pdf`: Documento con el detalle y diagrama de las tablas.
@@ -15,7 +15,7 @@ El objetivo de este trabajo es demostrar mi comprensión de las consultas SQL, l
 - `resolucion-evaluacion.sql`: Archivo con todas las consultas SQL resueltas, explicadas paso a paso y comentadas de forma personal para defenderlas en la revisión oral.
 - `README.md`: Este archivo.
 
-## ��� ¿Cómo usar este repositorio?
+## 🚀 ¿Cómo usar este repositorio?
 
 1. **Carga la base de datos Sakila**
    - Importa el script `sakila-data.sql` en tu MySQL Workbench (o en el cliente que prefieras).
@@ -26,7 +26,7 @@ El objetivo de este trabajo es demostrar mi comprensión de las consultas SQL, l
 4. **Ejecuta y prueba**
    - Puedes copiar y pegar las consultas directamente en MySQL Workbench. Siéntete libre de modificarlas para experimentar o adaptarlas a otros ejemplos.
 
-## ��� ¿Por qué he resuelto así los ejercicios?
+## 💬 ¿Por qué he resuelto así los ejercicios?
 
 En cada ejercicio explico, usando comentarios SQL, por qué tomo cada decisión:
 - Por ejemplo, cuándo uso `JOIN` o subconsultas, por qué elijo agrupar de una manera concreta, o cómo interpreto los filtros.
@@ -36,7 +36,7 @@ En cada ejercicio explico, usando comentarios SQL, por qué tomo cada decisión:
 
 Paola Sánchez árbol
 
-## ��� Créditos
+## 📚 Créditos
 
 - Base de datos Sakila
 - Ejercicios adaptados del examen oficial de la asignatura.
